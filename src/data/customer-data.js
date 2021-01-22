@@ -1,26 +1,26 @@
 export default [
   {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+    title: 'Ordning FTW hjälpte mig att organisera ett garage',
     content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'Jane Doe',
+      'Tusen tack till det fantastiska arbetet..., Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing',
+    customerName: 'Kalle Kallesson',
+    customerTitle: 'Privatperson',
+    customerImage: 'https://placeimg.com/150/150/people'
+  },
+  {
+    title: 'Stort tack till...',
+    content:
+      'Super nöjd!...',
+    customerName: 'Agda Agda',
     customerTitle: 'Director of Research and Data',
     customerImage: 'https://placeimg.com/150/150/people'
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+    title: 'Organisera...',
     content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'John Doe',
-    customerTitle: 'Director of Research and Data',
-    customerImage: 'https://placeimg.com/150/150/people'
-  },
-  {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
-    content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'Jane Smith',
-    customerTitle: 'Director of Research and Data',
+      'Mycket proffisg utfört...',
+    customerName: 'Elon Musk',
+    customerTitle: 'CEO of Tesla',
     customerImage: 'https://placeimg.com/150/150/people'
   }
 ];
