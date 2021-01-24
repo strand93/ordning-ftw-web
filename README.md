@@ -1,17 +1,20 @@
-# Gatsby Lander
+# Gatsby webpage for OrdningFTW
 
-This is an experimental starter built using [gatsby-theme-codebushi](https://github.com/codebushi/gatsby-theme-codebushi), a theme which uses [Tailwind CSS](https://tailwindcss.com/).
-
-Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
-
-## Preview
-
-https://gatsby-lander.surge.sh/
+A simple website built with Gastby and template from [gatsby-theme-codebushi](https://github.com/codebushi/gatsby-theme-codebushi)
 
 ## Installation
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-lander https://github.com/codebushi/gatsby-starter-lander`
+Clone this repository.
 
 Run `gatsby develop` in the terminal to start the dev site.
+
+## Authors
+
+- 
+## License 
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments 
+
+- **codebushi** - [gatsby-theme-codebushi](https://github.com/codebushi/gatsby-theme-codebushi)
