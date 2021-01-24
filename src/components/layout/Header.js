@@ -16,16 +16,19 @@ const Header = () => (
       </div>
       <div className="flex mt-4 sm:mt-0">
         <AnchorLink className="px-8" href="#features">
-          Om mig
-        </AnchorLink>
-        <AnchorLink className="px-8" href="#services">
           Tjänster
         </AnchorLink>
-        <AnchorLink className="px-8" href="#stats">
-          Kontakt
+        <AnchorLink className="px-8" href="#about-me">
+          Om mig
         </AnchorLink>
         <AnchorLink className="px-8" href="#testimonials">
           Omdömen
+        </AnchorLink>
+        <AnchorLink className="px-8" href="#contact">
+          Kontakt
+        </AnchorLink>
+        <AnchorLink className="px-8" href="#services2">
+          Tjänster2
         </AnchorLink>
       </div>
       {/*
