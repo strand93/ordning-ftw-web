@@ -1,4 +1,4 @@
-# Gatsby webpage for OrdningFTW
+# OrdningFTW webpage
 
 A simple website built with Gastby and template from [gatsby-theme-codebushi](https://github.com/codebushi/gatsby-theme-codebushi)
 
