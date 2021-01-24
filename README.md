@@ -4,7 +4,7 @@ A simple website built with Gastby and template from [gatsby-theme-codebushi](ht
 
 ## Installation
 
-Clone this repository.
+Clone this repository
 
 Run `gatsby develop` in the terminal to start the dev site.
 
