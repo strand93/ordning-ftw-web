@@ -134,7 +134,7 @@ export default () => (
     {/**
      * Om mig
      */}
-    <section id="about-me2" className="py-20 lg:pb-40 lg:pt-48">
+    <section id="about-me" className="py-20 lg:pb-40 lg:pt-48">
       <div className="container mx-auto text-center">
         <h2 className="text-3xl lg:text-5xl font-semibold">Om mig</h2>
         <SplitSection
@@ -181,7 +181,7 @@ export default () => (
     </section>
 
     <div className="container flex justify-center mx-auto px-4 mb-4">
-      <AnchorLink className="px-2 md:px-8" href="#top">
+      <AnchorLink className="px-2 md:px-8" offset='100' href="#top">
         <Button className="text-sm">Tillbaka till toppen</Button>
       </AnchorLink>
     </div>
