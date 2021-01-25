@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-lander",
-  "author": "Hunter Chang",
-  "repository": "https://github.com/codebushi/gatsby-starter-lander",
+  "name": "ordning-ftw-web",
+  "author": "Alexander Strand",
+  "repository": "https://github.com/strand93/ordning-ftw-web",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
