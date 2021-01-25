@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Footer = () => (
-  <footer className="mx-auto p-10 px-32 text-white bg-gray-800">
+  <footer className="mx-auto p-10 md:px-32 text-white bg-gray-800">
     <div className="flex justify-around -mx-3">
       <div className="px-3">
         <h2 className="text-lg font-semibold">Sociala Medier</h2>
