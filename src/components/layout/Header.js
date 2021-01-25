@@ -12,23 +12,20 @@ const Header = () => (
           {/* <LogoIcon /> */}
           <img src={Logo} alt="logo"/>
         </div>
-        <p className="text-yellow-700">Ordning FTW</p>
+        <p className="font-semibold subpixel-antialiased text-yellow-700">Ordning FTW</p>
       </div>
-      <div className="flex mt-4 sm:mt-0">
-        <AnchorLink className="px-8" href="#features">
+      <div className="hidden sm:flex mt-4 sm:mt-0">
+        <AnchorLink className="px-2 md:px-8" href="#features">
           Tjänster
         </AnchorLink>
-        <AnchorLink className="px-8" href="#about-me">
+        <AnchorLink className="px-2 md:px-8" href="#about-me">
           Om mig
         </AnchorLink>
-        <AnchorLink className="px-8" href="#testimonials">
+        <AnchorLink className="px-2 md:px-8" href="#testimonials">
           Omdömen
         </AnchorLink>
-        <AnchorLink className="px-8" href="#contact">
+        <AnchorLink className="px-2 md:px-8" href="#contact">
           Kontakt
-        </AnchorLink>
-        <AnchorLink className="px-8" href="#services2">
-          Tjänster2
         </AnchorLink>
       </div>
       {/*
